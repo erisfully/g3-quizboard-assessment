@@ -16,7 +16,7 @@ the buttons you can use to mark an answer as correct or incorrect.
 - Show the possible answers to the question
 - Upon selecting an answer, show the correct answer and indicate if they were
   incorrect
-- Disable the all of the possible answer buttons up an answer selection
+- Disable the all of the possible answer buttons upon answer selection
 - Keep track of the progress of the quiz (1/4 where 1 is the question they are
   on and 4 is the total questions)
 - Upon completing the quiz a user should be presented with their score as a
